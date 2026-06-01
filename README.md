@@ -35,15 +35,15 @@ python Little_Professor.py
 
 ## 💻 Sample Session
 Level: 1
-3 + 7 = 10 ✓
+3 + 7 = 10
 5 + 2 = 8
 EEE
 5 + 2 = 3
 EEE
-5 + 2 = 7 ✓
-...
+5 + 2 = 7
+EEE
+5 + 2 = 7
 Score: 9
----
 
 ## 🛠️ Built With
 

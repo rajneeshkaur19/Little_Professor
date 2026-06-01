@@ -34,16 +34,22 @@ python Little_Professor.py
 ---
 
 ## 💻 Sample Session
+
+```
+$ python Little_Professor.py
+
 Level: 1
-3 + 7 = 10
-5 + 2 = 8
-EEE
-5 + 2 = 3
-EEE
-5 + 2 = 7
-EEE
-5 + 2 = 7
-Score: 9
+
+3 + 7 = 10   ✅
+5 + 2 = 8    ❌ EEE
+5 + 2 = 3    ❌ EEE
+5 + 2 = 3    ❌ EEE
+→ Answer: 5 + 2 = 7
+
+...
+
+🏆 Score: 9 / 10
+```
 
 ## 🛠️ Built With
 
